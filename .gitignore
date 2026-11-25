@@ -1,0 +1,9 @@
+node_modules/
+.venv/
+renders/
+assets/
+__pycache__/
+*.pyc
+.env
+allowed.json
+bot.log
